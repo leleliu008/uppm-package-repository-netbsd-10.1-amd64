@@ -1,0 +1,5 @@
+summary: A small utility to modify ELF files
+webpage: https://github.com/NixOS/patchelf
+version: 0.17.2 
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.1-amd64/releases/download/2025.07.23/patchelf-0.17.2-netbsd-10.1-amd64.release.tar.xz 
+bin-sha: 397315793933d22806f6b436e5abf9d1560319d3ba3d3e03c66e21df696ab5a0

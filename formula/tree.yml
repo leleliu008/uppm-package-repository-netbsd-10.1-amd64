@@ -1,0 +1,5 @@
+summary: Display directories as trees (with optional color/HTML output)
+webpage: https://oldmanprogrammer.net/source.php?dir=projects/tree
+version: 2.2.1 
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.1-amd64/releases/download/2025.07.23/tree-2.2.1-netbsd-10.1-amd64.release.tar.xz 
+bin-sha: b9d6fb24acb97c2e653a390846fb68fb306ca3fec1c7e5293db0e851e68324d8

@@ -1,0 +1,5 @@
+summary: Open source programming language to build simple/reliable/efficient software
+webpage: https://go.dev/
+version: 1.23.7 
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.1-amd64/releases/download/2025.07.23/golang-1.23.7-netbsd-10.1-amd64.release.tar.xz 
+bin-sha: 85461d24ac103cb877b571fa718849db2e3b5e9cb9325811212688cb8f1f2c6d

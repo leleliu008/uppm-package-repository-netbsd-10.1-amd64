@@ -1,0 +1,5 @@
+summary: Cryptography and SSL/TLS Toolkit
+webpage: https://www.openssl.org/
+version: 3.5.1 
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.1-amd64/releases/download/2025.07.23/openssl-3.5.1-netbsd-10.1-amd64.release.tar.xz 
+bin-sha: 8ec354915722afe8b1ce53d5a16c15628f7447e43a378834bb8d745415adae0c

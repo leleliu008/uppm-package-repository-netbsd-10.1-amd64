@@ -1,0 +1,5 @@
+summary: A small man page generator
+webpage: https://sr.ht/~sircmpwn/scdoc/
+version: 1.11.3 
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.1-amd64/releases/download/2025.07.23/scdoc-1.11.3-netbsd-10.1-amd64.release.tar.xz 
+bin-sha: 79e2fd173d18e578cb428be0a030e5e7c3c9773cf1098d909d4b7c6097b24d70
