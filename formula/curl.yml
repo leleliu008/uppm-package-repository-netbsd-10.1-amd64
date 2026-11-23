@@ -1,5 +1,5 @@
 summary: A command-line tool for transferring data from/to an HTTP, HTTPS or FTP server
-webpage: https://curl.haxx.se/
-version: 8.14.1 
-bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.1-amd64/releases/download/2025.07.23/curl-8.14.1-netbsd-10.1-amd64.release.tar.xz 
-bin-sha: 6d949e498791a99a0aaf9dc11b5cc0d752997d23e55927f041f2764625c70622
+webpage: https://curl.se/
+version: 8.23.0 
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.1-amd64/releases/download/2026.11.23/curl-8.23.0-netbsd-10.1-amd64.release.tar.xz 
+bin-sha: 7200be332810d797b039c070565aa1432ae59d0f6962d50da3a8ff6319cd9249

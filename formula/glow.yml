@@ -1,5 +1,5 @@
-summary: Render markdown on the CLI
+summary: A terminal based markdown reader
 webpage: https://github.com/charmbracelet/glow
-version: 2.1.1 
-bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.1-amd64/releases/download/2025.07.23/glow-2.1.1-netbsd-10.1-amd64.release.tar.xz 
-bin-sha: acdba673b8f773157c96ca31efafa965f11aced3296abfc58289a531c354d670
+version: 3.0.0 
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.1-amd64/releases/download/2026.11.23/glow-3.0.0-netbsd-10.1-amd64.release.tar.xz 
+bin-sha: 09b9a306e080f1500e6da87d62c0c42cf5fe32f3ac82a058457de7b7fb0d0c0f

@@ -1,5 +1,5 @@
 summary: A lightweight and flexible command-line JSON processor
-webpage: https://stedolan.github.io/jq
-version: 1.8.0 
-bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.1-amd64/releases/download/2025.07.23/jq-1.8.0-netbsd-10.1-amd64.release.tar.xz 
-bin-sha: 87820f10b526a53fbe38749db1024554851eed965c5c1d30eae9c0e16b0197db
+webpage: https://jqlang.github.io/jq/
+version: 1.8.2 
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-10.1-amd64/releases/download/2026.11.23/jq-1.8.2-netbsd-10.1-amd64.release.tar.xz 
+bin-sha: 0461b387ce043c0ca545f1181bc20dc0a49bbcda7d194697b04696fb820175ea
